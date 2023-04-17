@@ -1,0 +1,420 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header list render 1`] = `
+Array [
+  <a
+    href="/"
+  >
+    О компании
+  </a>,
+]
+`;
+
+exports[`Header list renders 1`] = `
+Array [
+  <a
+    href="/"
+  >
+    Доставка и оплата
+  </a>,
+]
+`;
+
+exports[`Header should create Header with empty header 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <header
+        class="header"
+      >
+        <div
+          class="header__firstline  conteiner"
+        >
+          <div
+            class="header__firstline-left"
+          >
+            <div
+              class="header__firstline-left_logo"
+            />
+            <p
+              class="header__firstline-left_adress"
+            >
+              <strong>
+                г. Кокчетав, ул. Ж. Ташенова 129Б
+              </strong>
+              <br />
+              <span
+                class="header__firstline-left_west"
+              >
+                (Рынок Восточный)
+              </span>
+            </p>
+            <div
+              class="header__firstline-left"
+            >
+              <div
+                class="header__firstline-left_email"
+              />
+              <p
+                class="header__firstline-left_adress"
+              >
+                <strong>
+                  opt.sultan@mail.ru
+                </strong>
+                <br />
+                <span
+                  class="header__firstline-left_west"
+                >
+                  На связи в любое время
+                </span>
+              </p>
+            </div>
+          </div>
+          <div
+            class="header__firstline-right"
+          >
+            <nav>
+              <ul
+                class="header__firstline-nav"
+              >
+                <li>
+                  <a
+                    href="/"
+                  >
+                    О компании
+                  </a>
+                </li>
+                <li>
+                  <a
+                    href="/"
+                  >
+                    Доставка и оплата
+                  </a>
+                </li>
+                <li>
+                  <a
+                    href="/"
+                  >
+                    Возврат
+                  </a>
+                </li>
+                <li>
+                  <a
+                    href="/"
+                  >
+                    Контакты
+                  </a>
+                </li>
+              </ul>
+            </nav>
+          </div>
+        </div>
+        <div
+          class="header__wrapp"
+        >
+          <div
+            class="conteiner header__secondline"
+          >
+            <div
+              class="header__secondline-logo"
+            />
+            <button
+              class="header__secondline-button button"
+            >
+              Каталог  
+              <div
+                class="catalog"
+              />
+            </button>
+            <div
+              class="header__secondline-input"
+            >
+              <input
+                class="header__secondline-input_search"
+                placeholder="Поиск..."
+                type="search"
+              />
+              <input
+                class="header__secondline-input_button"
+                type="button"
+              />
+            </div>
+            <div
+              class="header__secondline-fone"
+            >
+              <p>
+                <strong>
+                  +7 (777) 490-00-91
+                </strong>
+              </p>
+              <p>
+                <span
+                  class="header__secondline-fone_west"
+                >
+                  время работы: 9:00-20:00
+                </span>
+              </p>
+              <br />
+              <a
+                class="header__secondline_tel"
+                href="tel:+7 (777) 490-00-91"
+              >
+                Заказать звонок
+              </a>
+            </div>
+            <div
+              class="header__secondline-img"
+            />
+            <button
+              class="header__secondline-button button"
+            >
+              Прайс-лист 
+              <div
+                class="download"
+              />
+            </button>
+            <div
+              class="header__secondline-basket"
+            >
+              <button
+                class="header__secondline-basket_button"
+              />
+              <div>
+                <p>
+                  Корзина
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </header>
+    </div>
+  </body>,
+  "container": <div>
+    <header
+      class="header"
+    >
+      <div
+        class="header__firstline  conteiner"
+      >
+        <div
+          class="header__firstline-left"
+        >
+          <div
+            class="header__firstline-left_logo"
+          />
+          <p
+            class="header__firstline-left_adress"
+          >
+            <strong>
+              г. Кокчетав, ул. Ж. Ташенова 129Б
+            </strong>
+            <br />
+            <span
+              class="header__firstline-left_west"
+            >
+              (Рынок Восточный)
+            </span>
+          </p>
+          <div
+            class="header__firstline-left"
+          >
+            <div
+              class="header__firstline-left_email"
+            />
+            <p
+              class="header__firstline-left_adress"
+            >
+              <strong>
+                opt.sultan@mail.ru
+              </strong>
+              <br />
+              <span
+                class="header__firstline-left_west"
+              >
+                На связи в любое время
+              </span>
+            </p>
+          </div>
+        </div>
+        <div
+          class="header__firstline-right"
+        >
+          <nav>
+            <ul
+              class="header__firstline-nav"
+            >
+              <li>
+                <a
+                  href="/"
+                >
+                  О компании
+                </a>
+              </li>
+              <li>
+                <a
+                  href="/"
+                >
+                  Доставка и оплата
+                </a>
+              </li>
+              <li>
+                <a
+                  href="/"
+                >
+                  Возврат
+                </a>
+              </li>
+              <li>
+                <a
+                  href="/"
+                >
+                  Контакты
+                </a>
+              </li>
+            </ul>
+          </nav>
+        </div>
+      </div>
+      <div
+        class="header__wrapp"
+      >
+        <div
+          class="conteiner header__secondline"
+        >
+          <div
+            class="header__secondline-logo"
+          />
+          <button
+            class="header__secondline-button button"
+          >
+            Каталог  
+            <div
+              class="catalog"
+            />
+          </button>
+          <div
+            class="header__secondline-input"
+          >
+            <input
+              class="header__secondline-input_search"
+              placeholder="Поиск..."
+              type="search"
+            />
+            <input
+              class="header__secondline-input_button"
+              type="button"
+            />
+          </div>
+          <div
+            class="header__secondline-fone"
+          >
+            <p>
+              <strong>
+                +7 (777) 490-00-91
+              </strong>
+            </p>
+            <p>
+              <span
+                class="header__secondline-fone_west"
+              >
+                время работы: 9:00-20:00
+              </span>
+            </p>
+            <br />
+            <a
+              class="header__secondline_tel"
+              href="tel:+7 (777) 490-00-91"
+            >
+              Заказать звонок
+            </a>
+          </div>
+          <div
+            class="header__secondline-img"
+          />
+          <button
+            class="header__secondline-button button"
+          >
+            Прайс-лист 
+            <div
+              class="download"
+            />
+          </button>
+          <div
+            class="header__secondline-basket"
+          >
+            <button
+              class="header__secondline-basket_button"
+            />
+            <div>
+              <p>
+                Корзина
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`Header title render 1`] = `
+Array [
+  <strong>
+    г. Кокчетав, ул. Ж. Ташенова 129Б
+  </strong>,
+]
+`;

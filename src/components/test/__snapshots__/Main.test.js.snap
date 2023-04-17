@@ -1,0 +1,204 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Main render list renders 1`] = `
+Array [
+  <a
+    class="main__content-home"
+    href="/"
+  >
+    Главная
+  </a>,
+]
+`;
+
+exports[`Main render option renders 1`] = `
+Array [
+  <option
+    value=""
+  >
+    По убыванию
+  </option>,
+]
+`;
+
+exports[`Main render should create Main with empty main 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <main
+        class="main conteiner"
+      >
+        <div
+          class="main__content"
+        >
+          <a
+            class="main__content-home"
+            href="/"
+          >
+            Главная
+          </a>
+          <p
+            class="main__content-cosm"
+          >
+            Косметика и гигиена
+          </p>
+        </div>
+        <div
+          class="main__top"
+        >
+          <h1
+            class="main__top-title"
+          >
+            Косметика и гигиена
+          </h1>
+          <p
+            class="main__top-select"
+          >
+            Сортировка:  
+            <select>
+              <option>
+                Название
+              </option>
+              <optgroup
+                label="Цена"
+              >
+                <option
+                  value=""
+                >
+                  По возрастанию
+                </option>
+                <option
+                  value=""
+                >
+                  По убыванию
+                </option>
+              </optgroup>
+            </select>
+          </p>
+        </div>
+      </main>
+    </div>
+  </body>,
+  "container": <div>
+    <main
+      class="main conteiner"
+    >
+      <div
+        class="main__content"
+      >
+        <a
+          class="main__content-home"
+          href="/"
+        >
+          Главная
+        </a>
+        <p
+          class="main__content-cosm"
+        >
+          Косметика и гигиена
+        </p>
+      </div>
+      <div
+        class="main__top"
+      >
+        <h1
+          class="main__top-title"
+        >
+          Косметика и гигиена
+        </h1>
+        <p
+          class="main__top-select"
+        >
+          Сортировка:  
+          <select>
+            <option>
+              Название
+            </option>
+            <optgroup
+              label="Цена"
+            >
+              <option
+                value=""
+              >
+                По возрастанию
+              </option>
+              <option
+                value=""
+              >
+                По убыванию
+              </option>
+            </optgroup>
+          </select>
+        </p>
+      </div>
+    </main>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`Main render title renders 1`] = `
+Array [
+  <p
+    class="main__content-cosm"
+  >
+    Косметика и гигиена
+  </p>,
+  <h1
+    class="main__top-title"
+  >
+    Косметика и гигиена
+  </h1>,
+]
+`;
